@@ -25,7 +25,7 @@ Provided the details of a new passenger your task is to study the dataset and de
 
 
 # Import these modules:-
-'''
+```
 pandas
 matplotlib
 seaborn
@@ -40,6 +40,4 @@ KNeighborsClassifier
 GaussianNB
 DecisionTreeClassifier
 RandomForestClassifier
-
-
-'''   
+```   
